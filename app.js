@@ -1,3 +1,4 @@
+//hello world 
 const openEl = document.querySelector('.open-btn');
 const closeEl = document.querySelector('.close-btn');
 const sidebarEl = document.querySelector('.sidebar');
